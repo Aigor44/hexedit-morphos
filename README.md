@@ -1,5 +1,5 @@
-To build from git:
+To build for MorphOS from git:
 
 ```
-./autogen.sh && ./configure && make
+make
 ```
